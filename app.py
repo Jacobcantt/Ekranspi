@@ -9,7 +9,7 @@ Prerequisites
 
     SET SPOTIPY_CLIENT_ID=48186fdab3f449628b17b88fddee1cbf
     SET SPOTIPY_CLIENT_SECRET=8ba10cb710a64c48aa29212b802f7b78
-    SET SPOTIPY_REDIRECT_URI=https://ekranspi.fly.dev/callback
+    SET SPOTIPY_REDIRECT_URI=https://ekranspi.fly.dev
 
 
     // set the redirect url to 'http://127.0.0.1:5000' for testing on your local machine. When hosting, you will need to change that to the address of the device you are hosting on. 
