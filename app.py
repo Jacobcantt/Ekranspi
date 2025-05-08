@@ -9,7 +9,7 @@ Prerequisites
 
     export SPOTIPY_CLIENT_ID=48186fdab3f449628b17b88fddee1cbf
     export SPOTIPY_CLIENT_SECRET=8ba10cb710a64c48aa29212b802f7b78
-    export SPOTIPY_REDIRECT_URI=https://fly.io/apps/ekransp // must contain a port
+    export SPOTIPY_REDIRECT_URI='https://fly.io/apps/ekransp' // must contain a port
 
     // set the redirect url to 'http://127.0.0.1:5000' for testing on your local machine. When hosting, you will need to change that to the address of the device you are hosting on. 
     // SPOTIPY_REDIRECT_URI must be added to your [app settings](https://developer.spotify.com/dashboard/applications)
