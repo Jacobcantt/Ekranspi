@@ -1,4 +1,4 @@
-app = "spotify-status-app"  # <- Zmień na swoją unikalną nazwę z Fly.io
+app = "ekranspi"
 
 [build]
   image = "python:3.11"
